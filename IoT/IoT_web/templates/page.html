@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Page</title>
+    <style>
+    .chart-container {
+        position: relative;
+        margin: auto;
+        height: 100vh;
+        width: 90vw;
+      }
+    </style>
+</head>
+
+
+
+<body>
+    <div class="chart-container" >
+        <canvas id="myChart"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('myChart');
+      
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: {{timeList | tojson}},
+            datasets: [{
+              label: 'humid',
+              data: {{humiList | tojson}}, //y軸humid的值
+              borderWidth: 1
+            },{
+              label: 'temperature',
+              data: {{tempList | tojson}},//y軸temperature的值
+              borderWidth: 1
+            }]
+          },
+            options: {
+                plugins: {
+                    title: {
+                        display: true,
+                        text: '溫溼度變化圖',
+                    }
+                },
+                scales: {
+                    y: {
+                    beginAtZero: true
+                    }
+                }
+            }
+        });
+      </script>
+
+
+
+</body>
+
+</html>
+
+
+
+
