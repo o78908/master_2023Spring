@@ -77,7 +77,7 @@ c = conn.cursor()
 #######################################
 
 ###pymysql#############################
-db = pymysql.connect(host="172.20.10.3",port=3306,user= "sid001",password= "1234", db="speedcameradb",charset="utf8")
+db = pymysql.connect(host="",port=3306,user= "sid001",password= "", db="speedcameradb",charset="utf8")
 print ("成功連接mysql")
 cursor = db.cursor()
 #######################################
