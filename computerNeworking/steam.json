@@ -1,1435 +1,1491 @@
 [
-  {
-    "game": "Counter-Strike: Global Offensive",
-    "gamePrice": "免費遊玩",
-    "players": "1,598,247",
-    "peakplayers": "1,756,413",
-    "url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "免費遊玩"
-    ],
-    "pubilsher": "Valve",
-    "publishDate": "2012",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Dota 2",
-    "gamePrice": "免費遊玩",
-    "players": "607,268",
-    "peakplayers": "665,786",
-    "url": "https://store.steampowered.com/app/570/Dota_2?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "免費遊玩",
-      "策略"
-    ],
-    "pubilsher": "Valve",
-    "publishDate": "2013",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "PUBG: BATTLEGROUNDS",
-    "gamePrice": "免費遊玩",
-    "players": "378,547",
-    "peakplayers": "402,866",
-    "url": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "免費遊玩",
-      "大型多人連線"
-    ],
-    "pubilsher": "KRAFTON, Inc.",
-    "publishDate": "2017",
-    "deck": "不支援"
-  },
-  {
-    "game": "《Apex 英雄》",
-    "gamePrice": "免費遊玩",
-    "players": "360,227",
-    "peakplayers": "412,812",
-    "url": "https://store.steampowered.com/app/1172470/Apex?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "免費遊玩"
-    ],
-    "pubilsher": "Electronic Arts",
-    "publishDate": "2020",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Grand Theft Auto V",
-    "gamePrice": "NT$ 643.00",
-    "players": "121,841",
-    "peakplayers": "134,639",
-    "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險"
-    ],
-    "pubilsher": "Rockstar Games",
-    "publishDate": "2015",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Rust",
-    "gamePrice": "NT$ 694.00",
-    "players": "96,113",
-    "peakplayers": "124,893",
-    "url": "https://store.steampowered.com/app/252490/Rust?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "gamePrice": "NT$ 569.00",
-    "players": "95,768",
-    "peakplayers": "109,700",
-    "url": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "大型多人連線"
-    ],
-    "pubilsher": "NetEase Games Global",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Team Fortress 2",
-    "gamePrice": "免費遊玩",
-    "players": "91,285",
-    "peakplayers": "95,203",
-    "url": "https://store.steampowered.com/app/440/Team_Fortress_2?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "免費遊玩"
-    ],
-    "pubilsher": "Valve",
-    "publishDate": "2007",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Wallpaper Engine：桌布引擎",
-    "gamePrice": "NT$ 120.00",
-    "players": "88,541",
-    "peakplayers": "92,721",
-    "url": "https://store.steampowered.com/app/431960/Wallpaper_Engine?snr=1_7001_7005__7003",
-    "genre": [
-      "休閒",
-      "獨立製作",
-      "動畫和建模",
-      "設計和繪圖",
-      "圖像編輯",
-      "工具"
-    ],
-    "pubilsher": "Wallpaper Engine Team",
-    "publishDate": "2018-11-",
-    "deck": "不支援"
-  },
-  {
-    "game": "War Thunder",
-    "gamePrice": "免費遊玩",
-    "players": "75,623",
-    "peakplayers": "85,432",
-    "url": "https://store.steampowered.com/app/236390/War_Thunder?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "免費遊玩",
-      "大型多人連線",
-      "模擬"
-    ],
-    "pubilsher": "Gaijin Distribution KFT",
-    "publishDate": "2013",
-    "deck": "已驗證"
-  },
-  {
-    "game": "饑荒聯機版",
-    "gamePrice": "NT$ 268.00",
-    "players": "72,305",
-    "peakplayers": "88,524",
-    "url": "https://store.steampowered.com/app/322330/?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "獨立製作",
-      "角色扮演",
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Klei Entertainment",
-    "publishDate": "2016",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Lost Ark\n（您的地區無法使用）",
-    "gamePrice": "None",
-    "players": "71,442",
-    "peakplayers": "79,997",
-    "url": "https://store.steampowered.com/app/1599340/Lost_Ark?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "《決勝時刻®：現代戰爭® II 2022》|《現代戰域™2.0》",
-    "gamePrice": "NT$ 2,219.00",
-    "players": "70,496",
-    "peakplayers": "81,385",
-    "url": "https://store.steampowered.com/app/1938090/_II_202220?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Warframe",
-    "gamePrice": "免費遊玩",
-    "players": "69,773",
-    "peakplayers": "80,167",
-    "url": "https://store.steampowered.com/app/230410/Warframe?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Unturned",
-    "gamePrice": "免費遊玩",
-    "players": "61,497",
-    "peakplayers": "63,187",
-    "url": "https://store.steampowered.com/app/304930/Unturned?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "休閒",
-      "免費遊玩",
-      "獨立製作"
-    ],
-    "pubilsher": "Smartly Dressed Games",
-    "publishDate": "2017",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "天命2",
-    "gamePrice": "免費遊玩",
-    "players": "57,794",
-    "peakplayers": "79,723",
-    "url": "https://store.steampowered.com/app/1085660/2?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "免費遊玩"
-    ],
-    "pubilsher": "Bungie",
-    "publishDate": "2019",
-    "deck": "不支援"
-  },
-  {
-    "game": "Football Manager 2023",
-    "gamePrice": "NT$ 1,199.00",
-    "players": "51,508",
-    "peakplayers": "69,100",
-    "url": "https://store.steampowered.com/app/1904540/Football_Manager_2023?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬",
-      "運動"
-    ],
-    "pubilsher": "SEGA",
-    "publishDate": "2022",
-    "deck": "已驗證"
-  },
-  {
-    "game": "EA SPORTS™《FIFA 23》",
-    "gamePrice": "NT$ 1,999.00",
-    "players": "48,896",
-    "peakplayers": "71,090",
-    "url": "https://store.steampowered.com/app/1811260/EA_SPORTSFIFA_23?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬",
-      "運動"
-    ],
-    "pubilsher": "Electronic Arts",
-    "publishDate": "2022",
-    "deck": "不支援"
-  },
-  {
-    "game": "ARK: Survival Evolved",
-    "gamePrice": "NT$ 318.00",
-    "players": "48,463",
-    "peakplayers": "57,770",
-    "url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "獨立製作",
-      "大型多人連線",
-      "角色扮演"
-    ],
-    "pubilsher": "Studio Wildcard",
-    "publishDate": "2017",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Path of Exile\n（您的地區無法使用）",
-    "gamePrice": "None",
-    "players": "45,289",
-    "peakplayers": "63,725",
-    "url": "https://store.steampowered.com/app/238960/Path_of_Exile?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Tom Clancy's Rainbow Six® Siege",
-    "gamePrice": "NT$ 569.00",
-    "players": "41,796",
-    "peakplayers": "55,372",
-    "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "Ubisoft",
-    "publishDate": "2015",
-    "deck": "不支援"
-  },
-  {
-    "game": "Sid Meier’s Civilization® VI",
-    "gamePrice": "NT$ 1,790.00",
-    "players": "40,711",
-    "peakplayers": "48,828",
-    "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI?snr=1_7001_7005__7003",
-    "genre": [
-      "策略"
-    ],
-    "pubilsher": "2K",
-    "publishDate": "2016",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "DayZ",
-    "gamePrice": "NT$ 1,299.00",
-    "players": "34,528",
-    "peakplayers": "49,926",
-    "url": "https://store.steampowered.com/app/221100/DayZ?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "MONSTER HUNTER RISE",
-    "gamePrice": "NT$ 1,120.00",
-    "players": "34,425",
-    "peakplayers": "39,932",
-    "url": "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "CAPCOM Co., Ltd.",
-    "publishDate": "2022",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Goose Goose Duck",
-    "gamePrice": "免費遊玩",
-    "players": "35,722",
-    "peakplayers": "48,081",
-    "url": "https://store.steampowered.com/app/1568590/Goose_Goose_Duck?snr=1_7001_7005__7003",
-    "genre": [
-      "休閒",
-      "免費遊玩",
-      "獨立製作",
-      "大型多人連線",
-      "策略"
-    ],
-    "pubilsher": "Gaggle Studios, Inc.",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "MIR4",
-    "gamePrice": "免費遊玩",
-    "players": "34,188",
-    "peakplayers": "34,200",
-    "url": "https://store.steampowered.com/app/1623660/MIR4?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "免費遊玩",
-      "大型多人連線",
-      "角色扮演"
-    ],
-    "pubilsher": "Wemade",
-    "publishDate": "2021",
-    "deck": "不支援"
-  },
-  {
-    "game": "Hearts of Iron IV",
-    "gamePrice": "NT$ 908.00",
-    "players": "33,283",
-    "peakplayers": "39,195",
-    "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Paradox Interactive",
-    "publishDate": "2016",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Dead by Daylight",
-    "gamePrice": "NT$ 379.00",
-    "players": "32,884",
-    "peakplayers": "37,687",
-    "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "Behaviour Interactive Inc.",
-    "publishDate": "2016",
-    "deck": "不支援"
-  },
-  {
-    "game": "Terraria",
-    "gamePrice": "NT$ 278.00",
-    "players": "31,722",
-    "peakplayers": "37,881",
-    "url": "https://store.steampowered.com/app/105600/Terraria?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "獨立製作",
-      "角色扮演"
-    ],
-    "pubilsher": "Re-Logic",
-    "publishDate": "2011",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Red Dead Redemption 2",
-    "gamePrice": "NT$ 1,790.00",
-    "players": "30,480",
-    "peakplayers": "35,576",
-    "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險"
-    ],
-    "pubilsher": "Rockstar Games",
-    "publishDate": "2019",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "NBA 2K23",
-    "gamePrice": "NT$ 1,790.00",
-    "players": "29,596",
-    "peakplayers": "33,186",
-    "url": "https://store.steampowered.com/app/1919590/NBA_2K23?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬",
-      "運動"
-    ],
-    "pubilsher": "2K",
-    "publishDate": "2022",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Monster Hunter: World",
-    "gamePrice": "NT$ 920.00",
-    "players": "28,647",
-    "peakplayers": "33,552",
-    "url": "https://store.steampowered.com/app/582010/Monster_Hunter_World?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "CAPCOM Co., Ltd.",
-    "publishDate": "2018",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Stardew Valley",
-    "gamePrice": "NT$ 398.00",
-    "players": "28,201",
-    "peakplayers": "34,546",
-    "url": "https://store.steampowered.com/app/413150/Stardew_Valley?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "角色扮演",
-      "模擬"
-    ],
-    "pubilsher": "ConcernedApe",
-    "publishDate": "2016",
-    "deck": "已驗證"
-  },
-  {
-    "game": "艾爾登法環",
-    "gamePrice": "NT$ 1,790.00",
-    "players": "28,086",
-    "peakplayers": "34,919",
-    "url": "https://store.steampowered.com/app/1245620/?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Left 4 Dead 2",
-    "gamePrice": "NT$ 188.00",
-    "players": "24,479",
-    "peakplayers": "27,971",
-    "url": "https://store.steampowered.com/app/550/Left_4_Dead_2?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "Valve",
-    "publishDate": "2009",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Hunt: Showdown",
-    "gamePrice": "NT$ 658.00",
-    "players": "24,268",
-    "peakplayers": "31,032",
-    "url": "https://store.steampowered.com/app/594650/Hunt_Showdown?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "Crytek",
-    "publishDate": "2019",
-    "deck": "不支援"
-  },
-  {
-    "game": "Yu-Gi-Oh! Master Duel",
-    "gamePrice": "免費遊玩",
-    "players": "23,891",
-    "peakplayers": "25,625",
-    "url": "https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel?snr=1_7001_7005__7003",
-    "genre": [
-      "免費遊玩",
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Konami Digital Entertainment",
-    "publishDate": "2022",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Euro Truck Simulator 2",
-    "gamePrice": "NT$ 468.00",
-    "players": "23,919",
-    "peakplayers": "32,894",
-    "url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "模擬"
-    ],
-    "pubilsher": "SCS Software",
-    "publishDate": "2012",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Project Zomboid",
-    "gamePrice": "NT$ 328.00",
-    "players": "23,659",
-    "peakplayers": "29,009",
-    "url": "https://store.steampowered.com/app/108600/Project_Zomboid?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "角色扮演",
-      "模擬",
-      "搶先體驗"
-    ],
-    "pubilsher": "The Indie Stone",
-    "publishDate": "2013",
-    "deck": "已驗證"
-  },
-  {
-    "game": "The Sims™ 4",
-    "gamePrice": "免費遊玩",
-    "players": "23,019",
-    "peakplayers": "30,934",
-    "url": "https://store.steampowered.com/app/1222670/The_Sims_4?snr=1_7001_7005__7003",
-    "genre": [
-      "冒險",
-      "休閒",
-      "免費遊玩",
-      "模擬"
-    ],
-    "pubilsher": "Electronic Arts",
-    "publishDate": "2014",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Age of Wonders 4",
-    "gamePrice": "NT$ 1,338.00",
-    "players": "22,937",
-    "peakplayers": "33,902",
-    "url": "https://store.steampowered.com/app/1669000/Age_of_Wonders_4?snr=1_7001_7005__7003",
-    "genre": [
-      "策略"
-    ],
-    "pubilsher": "Paradox Interactive",
-    "publishDate": "2023",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "7 Days to Die",
-    "gamePrice": "NT$ 568.00",
-    "players": "22,585",
-    "peakplayers": "26,418",
-    "url": "https://store.steampowered.com/app/251570/7_Days_to_Die?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "獨立製作",
-      "角色扮演",
-      "模擬",
-      "策略",
-      "搶先體驗"
-    ],
-    "pubilsher": "The Fun Pimps Entertainment LLC",
-    "publishDate": "2013",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "阿爾比恩Online",
-    "gamePrice": "免費遊玩",
-    "players": "21,975",
-    "peakplayers": "23,795",
-    "url": "https://store.steampowered.com/app/761890/Online?snr=1_7001_7005__7003",
-    "genre": [
-      "免費遊玩",
-      "大型多人連線",
-      "角色扮演"
-    ],
-    "pubilsher": "Sandbox Interactive GmbH",
-    "publishDate": "2017",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Garry's Mod",
-    "gamePrice": "NT$ 278.00",
-    "players": "20,844",
-    "peakplayers": "29,881",
-    "url": "https://store.steampowered.com/app/4000/Garrys_Mod?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "模擬"
-    ],
-    "pubilsher": "Valve",
-    "publishDate": "2006",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "RimWorld",
-    "gamePrice": "NT$ 529.00",
-    "players": "20,452",
-    "peakplayers": "23,877",
-    "url": "https://store.steampowered.com/app/294100/RimWorld?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Ludeon Studios",
-    "publishDate": "2018",
-    "deck": "已驗證"
-  },
-  {
-    "game": "雀魂麻將(MahjongSoul)",
-    "gamePrice": "免費遊玩",
-    "players": "19,866",
-    "peakplayers": "22,132",
-    "url": "https://store.steampowered.com/app/1329410/MahjongSoul?snr=1_7001_7005__7003",
-    "genre": [
-      "休閒",
-      "免費遊玩",
-      "策略"
-    ],
-    "pubilsher": "Catfood Studio",
-    "publishDate": "2020",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Total War: WARHAMMER III",
-    "gamePrice": "NT$ 1,790.00",
-    "players": "19,726",
-    "peakplayers": "27,928",
-    "url": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "策略"
-    ],
-    "pubilsher": "SEGA",
-    "publishDate": "2022",
-    "deck": "不支援"
-  },
-  {
-    "game": "Crab Game",
-    "gamePrice": "免費遊玩",
-    "players": "19,480",
-    "peakplayers": "22,483",
-    "url": "https://store.steampowered.com/app/1782210/Crab_Game?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "休閒",
-      "免費遊玩",
-      "獨立製作",
-      "競速"
-    ],
-    "pubilsher": "Dani",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Darkest Dungeon® II",
-    "gamePrice": "NT$ 599.00",
-    "players": "19,570",
-    "peakplayers": "19,570",
-    "url": "https://store.steampowered.com/app/1940340/Darkest_Dungeon_II?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "角色扮演",
-      "策略"
-    ],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "tModLoader",
-    "gamePrice": "免費試玩版",
-    "players": "19,476",
-    "peakplayers": "23,064",
-    "url": "https://store.steampowered.com/app/1281930/tModLoader?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "免費遊玩",
-      "獨立製作",
-      "角色扮演"
-    ],
-    "pubilsher": "Re-Logic",
-    "publishDate": "2020",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Cities: Skylines",
-    "gamePrice": "NT$ 808.00",
-    "players": "18,944",
-    "peakplayers": "21,428",
-    "url": "https://store.steampowered.com/app/255710/Cities_Skylines?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Paradox Interactive",
-    "publishDate": "2015",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Mount & Blade II: Bannerlord",
-    "gamePrice": "NT$ 1,399.00",
-    "players": "18,682",
-    "peakplayers": "21,632",
-    "url": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Europa Universalis IV",
-    "gamePrice": "NT$ 1,068.00",
-    "players": "18,555",
-    "peakplayers": "24,353",
-    "url": "https://store.steampowered.com/app/236850/Europa_Universalis_IV?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Paradox Interactive",
-    "publishDate": "2013",
-    "deck": "不支援"
-  },
-  {
-    "game": "Valheim",
-    "gamePrice": "NT$ 318.00",
-    "players": "18,008",
-    "peakplayers": "31,787",
-    "url": "https://store.steampowered.com/app/892970/Valheim?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "獨立製作",
-      "角色扮演",
-      "搶先體驗"
-    ],
-    "pubilsher": "Coffee Stain Publishing",
-    "publishDate": "2021",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Cookie Clicker",
-    "gamePrice": "NT$ 102.00",
-    "players": "17,623",
-    "peakplayers": "17,623",
-    "url": "https://store.steampowered.com/app/1454400/Cookie_Clicker?snr=1_7001_7005__7003",
-    "genre": [
-      "休閒",
-      "獨立製作",
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Playsaurus",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "VRChat",
-    "gamePrice": "免費遊玩",
-    "players": "17,850",
-    "peakplayers": "24,649",
-    "url": "https://store.steampowered.com/app/438100/VRChat?snr=1_7001_7005__7003",
-    "genre": [
-      "冒險",
-      "休閒",
-      "免費遊玩",
-      "大型多人連線",
-      "模擬",
-      "運動",
-      "搶先體驗"
-    ],
-    "pubilsher": "VRChat Inc.",
-    "publishDate": "2017",
-    "deck": "已驗證"
-  },
-  {
-    "game": "The Elder Scrolls V: Skyrim Special Edition",
-    "gamePrice": "NT$ 1,199.00",
-    "players": "17,384",
-    "peakplayers": "24,259",
-    "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Farming Simulator 22",
-    "gamePrice": "NT$ 857.00",
-    "players": "16,607",
-    "peakplayers": "32,151",
-    "url": "https://store.steampowered.com/app/1248130/Farming_Simulator_22?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬"
-    ],
-    "pubilsher": "Giants Software",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Rocket League®",
-    "gamePrice": "None",
-    "players": "16,520",
-    "peakplayers": "41,497",
-    "url": "https://store.steampowered.com/app/252950/Rocket_League?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "獨立製作",
-      "競速",
-      "運動"
-    ],
-    "pubilsher": "Psyonix LLC",
-    "publishDate": "2015",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Age of Empires II: Definitive Edition",
-    "gamePrice": "NT$ 679.00",
-    "players": "16,407",
-    "peakplayers": "21,356",
-    "url": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition?snr=1_7001_7005__7003",
-    "genre": [
-      "策略"
-    ],
-    "pubilsher": "Xbox Game Studios",
-    "publishDate": "2019",
-    "deck": "不支援"
-  },
-  {
-    "game": "魔靈召喚: 克羅尼柯戰記",
-    "gamePrice": "免費遊玩",
-    "players": "16,167",
-    "peakplayers": "18,393",
-    "url": "https://store.steampowered.com/app/2167580/?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "免費遊玩",
-      "大型多人連線",
-      "角色扮演"
-    ],
-    "pubilsher": "Com2uS",
-    "publishDate": "2022",
-    "deck": "不支援"
-  },
-  {
-    "game": "The Binding of Isaac: Rebirth",
-    "gamePrice": "NT$ 268.00",
-    "players": "15,258",
-    "peakplayers": "18,414",
-    "url": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "Nicalis, Inc.",
-    "publishDate": "2014",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Deep Rock Galactic",
-    "gamePrice": "NT$ 438.00",
-    "players": "15,163",
-    "peakplayers": "19,157",
-    "url": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "Coffee Stain Publishing",
-    "publishDate": "2020",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Black Desert",
-    "gamePrice": "NT$ 200.00",
-    "players": "14,651",
-    "peakplayers": "17,081",
-    "url": "https://store.steampowered.com/app/582660/Black_Desert?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "大型多人連線",
-      "角色扮演",
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Pearl Abyss",
-    "publishDate": "2021",
-    "deck": "不支援"
-  },
-  {
-    "game": "The Witcher® 3: Wild Hunt",
-    "gamePrice": "NT$ 868.00",
-    "players": "14,679",
-    "peakplayers": "17,188",
-    "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt?snr=1_7001_7005__7003",
-    "genre": [
-      "角色扮演"
-    ],
-    "pubilsher": "CD PROJEKT RED",
-    "publishDate": "2015",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Cyberpunk 2077",
-    "gamePrice": "NT$ 1,599.00",
-    "players": "14,492",
-    "peakplayers": "17,428",
-    "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "PAYDAY 2",
-    "gamePrice": "NT$ 225.00",
-    "players": "14,664",
-    "peakplayers": "22,141",
-    "url": "https://store.steampowered.com/app/218620/PAYDAY_2?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Sid Meier's Civilization® V",
-    "gamePrice": "NT$ 895.00",
-    "players": "14,004",
-    "peakplayers": "18,829",
-    "url": "https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V?snr=1_7001_7005__7003",
-    "genre": [
-      "策略"
-    ],
-    "pubilsher": "2K",
-    "publishDate": "2010",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "New World",
-    "gamePrice": "NT$ 599.00",
-    "players": "13,901",
-    "peakplayers": "20,697",
-    "url": "https://store.steampowered.com/app/1063730/New_World?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "大型多人連線",
-      "角色扮演"
-    ],
-    "pubilsher": "Amazon Games",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Soundpad",
-    "gamePrice": "NT$ 102.00",
-    "players": "13,784",
-    "peakplayers": "18,521",
-    "url": "https://store.steampowered.com/app/629520/Soundpad?snr=1_7001_7005__7003",
-    "genre": [
-      "音訊製作",
-      "工具"
-    ],
-    "pubilsher": "Leppsoft",
-    "publishDate": "2016",
-    "deck": "不支援"
-  },
-  {
-    "game": "STAR WARS 絕地：倖存者™",
-    "gamePrice": "NT$ 1,999.00",
-    "players": "13,808",
-    "peakplayers": "28,220",
-    "url": "https://store.steampowered.com/app/1774580/STAR_WARS?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險"
-    ],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Crusader Kings III",
-    "gamePrice": "NT$ 898.00",
-    "players": "13,184",
-    "peakplayers": "17,011",
-    "url": "https://store.steampowered.com/app/1158310/Crusader_Kings_III?snr=1_7001_7005__7003",
-    "genre": [
-      "角色扮演",
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Paradox Interactive",
-    "publishDate": "2020",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "《戰地風雲 5》",
-    "gamePrice": "NT$ 1,399.00",
-    "players": "13,355",
-    "peakplayers": "14,041",
-    "url": "https://store.steampowered.com/app/1238810/_5?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "Electronic Arts",
-    "publishDate": "2018",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "《戰車世界：閃擊戰》",
-    "gamePrice": "免費遊玩",
-    "players": "12,959",
-    "peakplayers": "16,396",
-    "url": "https://store.steampowered.com/app/444200/?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "免費遊玩",
-      "大型多人連線"
-    ],
-    "pubilsher": "Wargaming Group Limited",
-    "publishDate": "2016",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Sea of Thieves 2023 Edition",
-    "gamePrice": "NT$ 1,099.00",
-    "players": "13,097",
-    "peakplayers": "18,532",
-    "url": "https://store.steampowered.com/app/1172620/Sea_of_Thieves_2023_Edition?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險"
-    ],
-    "pubilsher": "Xbox Game Studios",
-    "publishDate": "2020",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Stellaris",
-    "gamePrice": "NT$ 738.00",
-    "players": "12,940",
-    "peakplayers": "16,308",
-    "url": "https://store.steampowered.com/app/281990/Stellaris?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Paradox Interactive",
-    "publishDate": "2016",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Squad",
-    "gamePrice": "NT$ 698.00",
-    "players": "12,696",
-    "peakplayers": "13,699",
-    "url": "https://store.steampowered.com/app/393380/Squad?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "獨立製作",
-      "大型多人連線",
-      "策略"
-    ],
-    "pubilsher": "Offworld Industries",
-    "publishDate": "2020",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "霍格華茲的傳承",
-    "gamePrice": "NT$ 1,490.00",
-    "players": "12,258",
-    "peakplayers": "20,570",
-    "url": "https://store.steampowered.com/app/990080/?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "角色扮演"
-    ],
-    "pubilsher": "Warner Bros. Games",
-    "publishDate": "2023",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Fallout 4",
-    "gamePrice": "NT$ 599.00",
-    "players": "12,170",
-    "peakplayers": "16,067",
-    "url": "https://store.steampowered.com/app/377160/Fallout_4?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Resident Evil 4",
-    "gamePrice": "NT$ 1,680.00",
-    "players": "12,061",
-    "peakplayers": "13,927",
-    "url": "https://store.steampowered.com/app/2050650/Resident_Evil_4?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Brotato",
-    "gamePrice": "NT$ 102.00",
-    "players": "11,951",
-    "peakplayers": "13,216",
-    "url": "https://store.steampowered.com/app/1942280/Brotato?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "休閒",
-      "獨立製作",
-      "角色扮演",
-      "搶先體驗"
-    ],
-    "pubilsher": "Blobfish",
-    "publishDate": "2022",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Wartales",
-    "gamePrice": "NT$ 739.00",
-    "players": "12,082",
-    "peakplayers": "15,960",
-    "url": "https://store.steampowered.com/app/1527950/Wartales?snr=1_7001_7005__7003",
-    "genre": [
-      "冒險",
-      "獨立製作",
-      "角色扮演",
-      "策略"
-    ],
-    "pubilsher": "Shiro Unlimited",
-    "publishDate": "2023",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Arma 3",
-    "gamePrice": "NT$ 698.00",
-    "players": "11,910",
-    "peakplayers": "17,400",
-    "url": "https://store.steampowered.com/app/107410/Arma_3?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Bohemia Interactive",
-    "publishDate": "2013",
-    "deck": "不支援"
-  },
-  {
-    "game": "Football Manager 2022",
-    "gamePrice": "None",
-    "players": "11,722",
-    "peakplayers": "14,147",
-    "url": "https://store.steampowered.com/app/1569040/Football_Manager_2022?snr=1_7001_7005__7003",
-    "genre": [
-      "模擬",
-      "運動"
-    ],
-    "pubilsher": "SEGA",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Forza Horizon 5",
-    "gamePrice": "NT$ 928.00",
-    "players": "11,404",
-    "peakplayers": "11,592",
-    "url": "https://store.steampowered.com/app/1551360/Forza_Horizon_5?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "競速",
-      "模擬",
-      "運動"
-    ],
-    "pubilsher": "Xbox Game Studios",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Russian Fishing 4",
-    "gamePrice": "免費遊玩",
-    "players": "11,241",
-    "peakplayers": "11,538",
-    "url": "https://store.steampowered.com/app/766570/Russian_Fishing_4?snr=1_7001_7005__7003",
-    "genre": [
-      "冒險",
-      "休閒",
-      "免費遊玩",
-      "大型多人連線",
-      "角色扮演",
-      "模擬",
-      "運動"
-    ],
-    "pubilsher": "FishSoft, LLC",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "SCUM",
-    "gamePrice": "NT$ 671.00",
-    "players": "11,189",
-    "peakplayers": "12,756",
-    "url": "https://store.steampowered.com/app/513710/SCUM?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "冒險",
-      "獨立製作",
-      "大型多人連線",
-      "搶先體驗"
-    ],
-    "pubilsher": "Jagex Ltd",
-    "publishDate": "2018",
-    "deck": "不支援"
-  },
-  {
-    "game": "Bloons TD 6",
-    "gamePrice": "NT$ 248.00",
-    "players": "11,042",
-    "peakplayers": "14,974",
-    "url": "https://store.steampowered.com/app/960090/Bloons_TD_6?snr=1_7001_7005__7003",
-    "genre": [
-      "策略"
-    ],
-    "pubilsher": "Ninja Kiwi",
-    "publishDate": "2018",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Factorio",
-    "gamePrice": "NT$ 600.00",
-    "players": "10,682",
-    "peakplayers": "14,497",
-    "url": "https://store.steampowered.com/app/427520/Factorio?snr=1_7001_7005__7003",
-    "genre": [
-      "休閒",
-      "獨立製作",
-      "模擬",
-      "策略"
-    ],
-    "pubilsher": "Wube Software LTD.",
-    "publishDate": "2020",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "FINAL FANTASY XIV Online\n（您的地區無法使用）",
-    "gamePrice": "None",
-    "players": "10,592",
-    "peakplayers": "25,021",
-    "url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "World of Warships",
-    "gamePrice": "免費遊玩",
-    "players": "10,692",
-    "peakplayers": "11,259",
-    "url": "https://store.steampowered.com/app/552990/World_of_Warships?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "免費遊玩",
-      "大型多人連線",
-      "模擬"
-    ],
-    "pubilsher": "Wargaming Group Limited",
-    "publishDate": "2017",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Forza Horizon 4",
-    "gamePrice": "NT$ 858.00",
-    "players": "10,494",
-    "peakplayers": "12,297",
-    "url": "https://store.steampowered.com/app/1293830/Forza_Horizon_4?snr=1_7001_7005__7003",
-    "genre": [
-      "競速"
-    ],
-    "pubilsher": "Xbox Game Studios",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Slay the Spire",
-    "gamePrice": "NT$ 378.00",
-    "players": "10,423",
-    "peakplayers": "11,558",
-    "url": "https://store.steampowered.com/app/646570/Slay_the_Spire?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "策略"
-    ],
-    "pubilsher": "Mega Crit Games",
-    "publishDate": "2019",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Phasmophobia",
-    "gamePrice": "NT$ 248.00",
-    "players": "10,640",
-    "peakplayers": "18,310",
-    "url": "https://store.steampowered.com/app/739630/Phasmophobia?snr=1_7001_7005__7003",
-    "genre": [
-      "動作",
-      "獨立製作",
-      "搶先體驗"
-    ],
-    "pubilsher": "Kinetic Games",
-    "publishDate": "2020",
-    "deck": "已驗證"
-  },
-  {
-    "game": "缺氧",
-    "gamePrice": "NT$ 378.00",
-    "players": "10,273",
-    "peakplayers": "11,273",
-    "url": "https://store.steampowered.com/app/457140/?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "模擬"
-    ],
-    "pubilsher": "Klei Entertainment",
-    "publishDate": "2019",
-    "deck": "已驗證"
-  },
-  {
-    "game": "Age of Empires IV: Anniversary Edition",
-    "gamePrice": "NT$ 1,088.00",
-    "players": "10,298",
-    "peakplayers": "12,511",
-    "url": "https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition?snr=1_7001_7005__7003",
-    "genre": [
-      "策略"
-    ],
-    "pubilsher": "Xbox Game Studios",
-    "publishDate": "2021",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Battlefield™ 1",
-    "gamePrice": "NT$ 1,099.00",
-    "players": "10,289",
-    "peakplayers": "11,045",
-    "url": "https://store.steampowered.com/app/1238840/Battlefield_1?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "Counter-Strike",
-    "gamePrice": "NT$ 186.00",
-    "players": "9,679",
-    "peakplayers": "13,103",
-    "url": "https://store.steampowered.com/app/10/CounterStrike?snr=1_7001_7005__7003",
-    "genre": [
-      "動作"
-    ],
-    "pubilsher": "Valve",
-    "publishDate": "2000",
-    "deck": "可遊玩"
-  },
-  {
-    "game": "Conan Exiles",
-    "gamePrice": "NT$ 499.00",
-    "players": "9,664",
-    "peakplayers": "14,455",
-    "url": "https://store.steampowered.com/app/440900/Conan_Exiles?snr=1_7001_7005__7003",
-    "genre": [],
-    "pubilsher": "None",
-    "publishDate": "None",
-    "deck": "None"
-  },
-  {
-    "game": "VTube Studio",
-    "gamePrice": "免費遊玩",
-    "players": "9,362",
-    "peakplayers": "9,362",
-    "url": "https://store.steampowered.com/app/1325860/VTube_Studio?snr=1_7001_7005__7003",
-    "genre": [
-      "獨立製作",
-      "動畫和建模",
-      "影片製作"
-    ],
-    "pubilsher": "DenchiSoft",
-    "publishDate": "2021",
-    "deck": "不支援"
-  }
-]
+    {
+      "game": "Counter-Strike: Global Offensive",
+      "gamePrice": "免費遊玩",
+      "players": "1,598,247",
+      "peakplayers": "1,756,413",
+      "url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "免費遊玩"
+      ],
+      "pubilsher": "Valve",
+      "publishDate": "2012",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Dota 2",
+      "gamePrice": "免費遊玩",
+      "players": "607,268",
+      "peakplayers": "665,786",
+      "url": "https://store.steampowered.com/app/570/Dota_2?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "免費遊玩",
+        "策略"
+      ],
+      "pubilsher": "Valve",
+      "publishDate": "2013",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "PUBG: BATTLEGROUNDS",
+      "gamePrice": "免費遊玩",
+      "players": "378,547",
+      "peakplayers": "402,866",
+      "url": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "免費遊玩",
+        "大型多人連線"
+      ],
+      "pubilsher": "KRAFTON, Inc.",
+      "publishDate": "2017",
+      "deck": "不支援"
+    },
+    {
+      "game": "《Apex 英雄》",
+      "gamePrice": "免費遊玩",
+      "players": "360,227",
+      "peakplayers": "412,812",
+      "url": "https://store.steampowered.com/app/1172470/Apex?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "免費遊玩"
+      ],
+      "pubilsher": "Electronic Arts",
+      "publishDate": "2020",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Grand Theft Auto V",
+      "gamePrice": "NT$ 643.00",
+      "players": "121,841",
+      "peakplayers": "134,639",
+      "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險"
+      ],
+      "pubilsher": "Rockstar Games",
+      "publishDate": "2015",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Rust",
+      "gamePrice": "NT$ 694.00",
+      "players": "96,113",
+      "peakplayers": "124,893",
+      "url": "https://store.steampowered.com/app/252490/Rust?snr=1_7001_7005__7003",
+      "genre": [
+        "動作", 
+        "冒險", 
+        "獨立製作", 
+        "大型多人連線", 
+        "角色扮演"
+      ],
+      "pubilsher": "Facepunch Studios",
+      "publishDate": "2018",
+      "deck": "不支援"
+    },
+    {
+      "game": "NARAKA: BLADEPOINT",
+      "gamePrice": "NT$ 569.00",
+      "players": "95,768",
+      "peakplayers": "109,700",
+      "url": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "大型多人連線"
+      ],
+      "pubilsher": "NetEase Games Global",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Team Fortress 2",
+      "gamePrice": "免費遊玩",
+      "players": "91,285",
+      "peakplayers": "95,203",
+      "url": "https://store.steampowered.com/app/440/Team_Fortress_2?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "免費遊玩"
+      ],
+      "pubilsher": "Valve",
+      "publishDate": "2007",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Wallpaper Engine：桌布引擎",
+      "gamePrice": "NT$ 120.00",
+      "players": "88,541",
+      "peakplayers": "92,721",
+      "url": "https://store.steampowered.com/app/431960/Wallpaper_Engine?snr=1_7001_7005__7003",
+      "genre": [
+        "休閒",
+        "獨立製作",
+        "動畫和建模",
+        "設計和繪圖",
+        "圖像編輯",
+        "工具"
+      ],
+      "pubilsher": "Wallpaper Engine Team",
+      "publishDate": "2018",
+      "deck": "不支援"
+    },
+    {
+      "game": "War Thunder",
+      "gamePrice": "免費遊玩",
+      "players": "75,623",
+      "peakplayers": "85,432",
+      "url": "https://store.steampowered.com/app/236390/War_Thunder?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "免費遊玩",
+        "大型多人連線",
+        "模擬"
+      ],
+      "pubilsher": "Gaijin Distribution KFT",
+      "publishDate": "2013",
+      "deck": "已驗證"
+    },
+    {
+      "game": "饑荒聯機版",
+      "gamePrice": "NT$ 268.00",
+      "players": "72,305",
+      "peakplayers": "88,524",
+      "url": "https://store.steampowered.com/app/322330/?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "獨立製作",
+        "角色扮演",
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Klei Entertainment",
+      "publishDate": "2016",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Lost Ark",
+      "gamePrice": "None",
+      "players": "71,442",
+      "peakplayers": "79,997",
+      "url": "https://store.steampowered.com/app/1599340/Lost_Ark?snr=1_7001_7005__7003",
+      "genre": [],
+      "pubilsher": "Amazon Games",
+      "publishDate": "2022",
+      "deck": "None"
+    },
+    {
+      "game": "《決勝時刻®：現代戰爭® II 2022》|《現代戰域™2.0》",
+      "gamePrice": "NT$ 2,219.00",
+      "players": "70,496",
+      "peakplayers": "81,385",
+      "url": "https://store.steampowered.com/app/1938090/_II_202220?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Activision",
+      "publishDate": "2022",
+      "deck": "不支援"
+    },
+    {
+      "game": "Warframe",
+      "gamePrice": "免費遊玩",
+      "players": "69,773",
+      "peakplayers": "80,167",
+      "url": "https://store.steampowered.com/app/230410/Warframe?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "角色扮演",
+        "免費遊玩"
+      ],
+      "pubilsher": "Digital Extremes",
+      "publishDate": "2013",
+      "deck": "None"
+    },
+    {
+      "game": "Unturned",
+      "gamePrice": "免費遊玩",
+      "players": "61,497",
+      "peakplayers": "63,187",
+      "url": "https://store.steampowered.com/app/304930/Unturned?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "休閒",
+        "免費遊玩",
+        "獨立製作"
+      ],
+      "pubilsher": "Smartly Dressed Games",
+      "publishDate": "2017",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "天命2",
+      "gamePrice": "免費遊玩",
+      "players": "57,794",
+      "peakplayers": "79,723",
+      "url": "https://store.steampowered.com/app/1085660/2?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "免費遊玩"
+      ],
+      "pubilsher": "Bungie",
+      "publishDate": "2019",
+      "deck": "不支援"
+    },
+    {
+      "game": "Football Manager 2023",
+      "gamePrice": "NT$ 1,199.00",
+      "players": "51,508",
+      "peakplayers": "69,100",
+      "url": "https://store.steampowered.com/app/1904540/Football_Manager_2023?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬",
+        "運動"
+      ],
+      "pubilsher": "SEGA",
+      "publishDate": "2022",
+      "deck": "已驗證"
+    },
+    {
+      "game": "EA SPORTS™《FIFA 23》",
+      "gamePrice": "NT$ 1,999.00",
+      "players": "48,896",
+      "peakplayers": "71,090",
+      "url": "https://store.steampowered.com/app/1811260/EA_SPORTSFIFA_23?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬",
+        "運動"
+      ],
+      "pubilsher": "Electronic Arts",
+      "publishDate": "2022",
+      "deck": "不支援"
+    },
+    {
+      "game": "ARK: Survival Evolved",
+      "gamePrice": "NT$ 318.00",
+      "players": "48,463",
+      "peakplayers": "57,770",
+      "url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "獨立製作",
+        "大型多人連線",
+        "角色扮演"
+      ],
+      "pubilsher": "Studio Wildcard",
+      "publishDate": "2017",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Path of Exile",
+      "gamePrice": "None",
+      "players": "45,289",
+      "peakplayers": "63,725",
+      "url": "https://store.steampowered.com/app/238960/Path_of_Exile?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "免費遊玩",
+        "獨立",
+        "大型多人在線",
+        "角色扮演" ],
+      "pubilsher": "Grinding Gear Games",
+      "publishDate": "2013",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Tom Clancy's Rainbow Six® Siege",
+      "gamePrice": "NT$ 569.00",
+      "players": "41,796",
+      "peakplayers": "55,372",
+      "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Ubisoft",
+      "publishDate": "2015",
+      "deck": "不支援"
+    },
+    {
+      "game": "Sid Meier’s Civilization® VI",
+      "gamePrice": "NT$ 1,790.00",
+      "players": "40,711",
+      "peakplayers": "48,828",
+      "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI?snr=1_7001_7005__7003",
+      "genre": [
+        "策略"
+      ],
+      "pubilsher": "2K",
+      "publishDate": "2016",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "DayZ",
+      "gamePrice": "NT$ 1,299.00",
+      "players": "34,528",
+      "peakplayers": "49,926",
+      "url": "https://store.steampowered.com/app/221100/DayZ?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "大型多人連線"
+            ],
+      "pubilsher": "Bohemia Interactive",
+      "publishDate": "2018",
+      "deck": "不支援"
+    },
+    {
+      "game": "MONSTER HUNTER RISE",
+      "gamePrice": "NT$ 1,120.00",
+      "players": "34,425",
+      "peakplayers": "39,932",
+      "url": "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "CAPCOM Co., Ltd.",
+      "publishDate": "2022",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Goose Goose Duck",
+      "gamePrice": "免費遊玩",
+      "players": "35,722",
+      "peakplayers": "48,081",
+      "url": "https://store.steampowered.com/app/1568590/Goose_Goose_Duck?snr=1_7001_7005__7003",
+      "genre": [
+        "休閒",
+        "免費遊玩",
+        "獨立製作",
+        "大型多人連線",
+        "策略"
+      ],
+      "pubilsher": "Gaggle Studios, Inc.",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "MIR4",
+      "gamePrice": "免費遊玩",
+      "players": "34,188",
+      "peakplayers": "34,200",
+      "url": "https://store.steampowered.com/app/1623660/MIR4?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "免費遊玩",
+        "大型多人連線",
+        "角色扮演"
+      ],
+      "pubilsher": "Wemade",
+      "publishDate": "2021",
+      "deck": "不支援"
+    },
+    {
+      "game": "Hearts of Iron IV",
+      "gamePrice": "NT$ 908.00",
+      "players": "33,283",
+      "peakplayers": "39,195",
+      "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Paradox Interactive",
+      "publishDate": "2016",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Dead by Daylight",
+      "gamePrice": "NT$ 379.00",
+      "players": "32,884",
+      "peakplayers": "37,687",
+      "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Behaviour Interactive Inc.",
+      "publishDate": "2016",
+      "deck": "不支援"
+    },
+    {
+      "game": "Terraria",
+      "gamePrice": "NT$ 278.00",
+      "players": "31,722",
+      "peakplayers": "37,881",
+      "url": "https://store.steampowered.com/app/105600/Terraria?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "獨立製作",
+        "角色扮演"
+      ],
+      "pubilsher": "Re-Logic",
+      "publishDate": "2011",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Red Dead Redemption 2",
+      "gamePrice": "NT$ 1,790.00",
+      "players": "30,480",
+      "peakplayers": "35,576",
+      "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險"
+      ],
+      "pubilsher": "Rockstar Games",
+      "publishDate": "2019",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "NBA 2K23",
+      "gamePrice": "NT$ 1,790.00",
+      "players": "29,596",
+      "peakplayers": "33,186",
+      "url": "https://store.steampowered.com/app/1919590/NBA_2K23?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬",
+        "運動"
+      ],
+      "pubilsher": "2K",
+      "publishDate": "2022",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Monster Hunter: World",
+      "gamePrice": "NT$ 920.00",
+      "players": "28,647",
+      "peakplayers": "33,552",
+      "url": "https://store.steampowered.com/app/582010/Monster_Hunter_World?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "CAPCOM Co., Ltd.",
+      "publishDate": "2018",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Stardew Valley",
+      "gamePrice": "NT$ 398.00",
+      "players": "28,201",
+      "peakplayers": "34,546",
+      "url": "https://store.steampowered.com/app/413150/Stardew_Valley?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "角色扮演",
+        "模擬"
+      ],
+      "pubilsher": "ConcernedApe",
+      "publishDate": "2016",
+      "deck": "已驗證"
+    },
+    {
+      "game": "艾爾登法環",
+      "gamePrice": "NT$ 1,790.00",
+      "players": "28,086",
+      "peakplayers": "34,919",
+      "url": "https://store.steampowered.com/app/1245620/?snr=1_7001_7005__7003",
+      "genre": [
+       "動作", 
+       "角色扮演"
+      ],
+      "pubilsher": "FromSoftware Inc.",
+      "publishDate": "2022",
+      "deck": "None"
+    },
+    {
+      "game": "Left 4 Dead 2",
+      "gamePrice": "NT$ 188.00",
+      "players": "24,479",
+      "peakplayers": "27,971",
+      "url": "https://store.steampowered.com/app/550/Left_4_Dead_2?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Valve",
+      "publishDate": "2009",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Hunt: Showdown",
+      "gamePrice": "NT$ 658.00",
+      "players": "24,268",
+      "peakplayers": "31,032",
+      "url": "https://store.steampowered.com/app/594650/Hunt_Showdown?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Crytek",
+      "publishDate": "2019",
+      "deck": "不支援"
+    },
+    {
+      "game": "Yu-Gi-Oh! Master Duel",
+      "gamePrice": "免費遊玩",
+      "players": "23,891",
+      "peakplayers": "25,625",
+      "url": "https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel?snr=1_7001_7005__7003",
+      "genre": [
+        "免費遊玩",
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Konami Digital Entertainment",
+      "publishDate": "2022",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Euro Truck Simulator 2",
+      "gamePrice": "NT$ 468.00",
+      "players": "23,919",
+      "peakplayers": "32,894",
+      "url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "模擬"
+      ],
+      "pubilsher": "SCS Software",
+      "publishDate": "2012",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Project Zomboid",
+      "gamePrice": "NT$ 328.00",
+      "players": "23,659",
+      "peakplayers": "29,009",
+      "url": "https://store.steampowered.com/app/108600/Project_Zomboid?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "角色扮演",
+        "模擬",
+        "搶先體驗"
+      ],
+      "pubilsher": "The Indie Stone",
+      "publishDate": "2013",
+      "deck": "已驗證"
+    },
+    {
+      "game": "The Sims™ 4",
+      "gamePrice": "免費遊玩",
+      "players": "23,019",
+      "peakplayers": "30,934",
+      "url": "https://store.steampowered.com/app/1222670/The_Sims_4?snr=1_7001_7005__7003",
+      "genre": [
+        "冒險",
+        "休閒",
+        "免費遊玩",
+        "模擬"
+      ],
+      "pubilsher": "Electronic Arts",
+      "publishDate": "2014",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Age of Wonders 4",
+      "gamePrice": "NT$ 1,338.00",
+      "players": "22,937",
+      "peakplayers": "33,902",
+      "url": "https://store.steampowered.com/app/1669000/Age_of_Wonders_4?snr=1_7001_7005__7003",
+      "genre": [
+        "策略"
+      ],
+      "pubilsher": "Paradox Interactive",
+      "publishDate": "2023",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "7 Days to Die",
+      "gamePrice": "NT$ 568.00",
+      "players": "22,585",
+      "peakplayers": "26,418",
+      "url": "https://store.steampowered.com/app/251570/7_Days_to_Die?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "獨立製作",
+        "角色扮演",
+        "模擬",
+        "策略",
+        "搶先體驗"
+      ],
+      "pubilsher": "The Fun Pimps Entertainment LLC",
+      "publishDate": "2013",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "阿爾比恩Online",
+      "gamePrice": "免費遊玩",
+      "players": "21,975",
+      "peakplayers": "23,795",
+      "url": "https://store.steampowered.com/app/761890/Online?snr=1_7001_7005__7003",
+      "genre": [
+        "免費遊玩",
+        "大型多人連線",
+        "角色扮演"
+      ],
+      "pubilsher": "Sandbox Interactive GmbH",
+      "publishDate": "2017",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Garry's Mod",
+      "gamePrice": "NT$ 278.00",
+      "players": "20,844",
+      "peakplayers": "29,881",
+      "url": "https://store.steampowered.com/app/4000/Garrys_Mod?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "模擬"
+      ],
+      "pubilsher": "Valve",
+      "publishDate": "2006",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "RimWorld",
+      "gamePrice": "NT$ 529.00",
+      "players": "20,452",
+      "peakplayers": "23,877",
+      "url": "https://store.steampowered.com/app/294100/RimWorld?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Ludeon Studios",
+      "publishDate": "2018",
+      "deck": "已驗證"
+    },
+    {
+      "game": "雀魂麻將(MahjongSoul)",
+      "gamePrice": "免費遊玩",
+      "players": "19,866",
+      "peakplayers": "22,132",
+      "url": "https://store.steampowered.com/app/1329410/MahjongSoul?snr=1_7001_7005__7003",
+      "genre": [
+        "休閒",
+        "免費遊玩",
+        "策略"
+      ],
+      "pubilsher": "Catfood Studio",
+      "publishDate": "2020",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Total War: WARHAMMER III",
+      "gamePrice": "NT$ 1,790.00",
+      "players": "19,726",
+      "peakplayers": "27,928",
+      "url": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "策略"
+      ],
+      "pubilsher": "SEGA",
+      "publishDate": "2022",
+      "deck": "不支援"
+    },
+    {
+      "game": "Crab Game",
+      "gamePrice": "免費遊玩",
+      "players": "19,480",
+      "peakplayers": "22,483",
+      "url": "https://store.steampowered.com/app/1782210/Crab_Game?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "休閒",
+        "免費遊玩",
+        "獨立製作",
+        "競速"
+      ],
+      "pubilsher": "Dani",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Darkest Dungeon® II",
+      "gamePrice": "NT$ 599.00",
+      "players": "19,570",
+      "peakplayers": "19,570",
+      "url": "https://store.steampowered.com/app/1940340/Darkest_Dungeon_II?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "角色扮演",
+        "策略"
+      ],
+      "pubilsher": "Red Hook Studios",
+      "publishDate": "2023",
+      "deck": "None"
+    },
+    {
+      "game": "tModLoader",
+      "gamePrice": "免費試玩版",
+      "players": "19,476",
+      "peakplayers": "23,064",
+      "url": "https://store.steampowered.com/app/1281930/tModLoader?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "免費遊玩",
+        "獨立製作",
+        "角色扮演"
+      ],
+      "pubilsher": "Re-Logic",
+      "publishDate": "2020",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Cities: Skylines",
+      "gamePrice": "NT$ 808.00",
+      "players": "18,944",
+      "peakplayers": "21,428",
+      "url": "https://store.steampowered.com/app/255710/Cities_Skylines?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Paradox Interactive",
+      "publishDate": "2015",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Mount & Blade II: Bannerlord",
+      "gamePrice": "NT$ 1,399.00",
+      "players": "18,682",
+      "peakplayers": "21,632",
+      "url": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord?snr=1_7001_7005__7003",
+      "genre": [
+        "動作", 
+        "獨立製作", 
+        "角色扮演", 
+        "模擬", 
+        "策略"
+      ],
+      "pubilsher": "TaleWorlds Entertainment",
+      "publishDate": "2022",
+      "deck": "None"
+    },
+    {
+      "game": "Europa Universalis IV",
+      "gamePrice": "NT$ 1,068.00",
+      "players": "18,555",
+      "peakplayers": "24,353",
+      "url": "https://store.steampowered.com/app/236850/Europa_Universalis_IV?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Paradox Interactive",
+      "publishDate": "2013",
+      "deck": "不支援"
+    },
+    {
+      "game": "Valheim",
+      "gamePrice": "NT$ 318.00",
+      "players": "18,008",
+      "peakplayers": "31,787",
+      "url": "https://store.steampowered.com/app/892970/Valheim?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "獨立製作",
+        "角色扮演",
+        "搶先體驗"
+      ],
+      "pubilsher": "Coffee Stain Publishing",
+      "publishDate": "2021",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Cookie Clicker",
+      "gamePrice": "NT$ 102.00",
+      "players": "17,623",
+      "peakplayers": "17,623",
+      "url": "https://store.steampowered.com/app/1454400/Cookie_Clicker?snr=1_7001_7005__7003",
+      "genre": [
+        "休閒",
+        "獨立製作",
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Playsaurus",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "VRChat",
+      "gamePrice": "免費遊玩",
+      "players": "17,850",
+      "peakplayers": "24,649",
+      "url": "https://store.steampowered.com/app/438100/VRChat?snr=1_7001_7005__7003",
+      "genre": [
+        "冒險",
+        "休閒",
+        "免費遊玩",
+        "大型多人連線",
+        "模擬",
+        "運動",
+        "搶先體驗"
+      ],
+      "pubilsher": "VRChat Inc.",
+      "publishDate": "2017",
+      "deck": "已驗證"
+    },
+    {
+      "game": "The Elder Scrolls V: Skyrim Special Edition",
+      "gamePrice": "NT$ 1,199.00",
+      "players": "17,384",
+      "peakplayers": "24,259",
+      "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition?snr=1_7001_7005__7003",
+      "genre": [
+        "角色扮演"
+      ],
+      "pubilsher": "Bethesda Softworks",
+      "publishDate": "2016",
+      "deck": "None"
+    },
+    {
+      "game": "Farming Simulator 22",
+      "gamePrice": "NT$ 857.00",
+      "players": "16,607",
+      "peakplayers": "32,151",
+      "url": "https://store.steampowered.com/app/1248130/Farming_Simulator_22?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬"
+      ],
+      "pubilsher": "Giants Software",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Rocket League®",
+      "gamePrice": "None",
+      "players": "16,520",
+      "peakplayers": "41,497",
+      "url": "https://store.steampowered.com/app/252950/Rocket_League?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "獨立製作",
+        "競速",
+        "運動"
+      ],
+      "pubilsher": "Psyonix LLC",
+      "publishDate": "2015",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Age of Empires II: Definitive Edition",
+      "gamePrice": "NT$ 679.00",
+      "players": "16,407",
+      "peakplayers": "21,356",
+      "url": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition?snr=1_7001_7005__7003",
+      "genre": [
+        "策略"
+      ],
+      "pubilsher": "Xbox Game Studios",
+      "publishDate": "2019",
+      "deck": "不支援"
+    },
+    {
+      "game": "魔靈召喚: 克羅尼柯戰記",
+      "gamePrice": "免費遊玩",
+      "players": "16,167",
+      "peakplayers": "18,393",
+      "url": "https://store.steampowered.com/app/2167580/?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "免費遊玩",
+        "大型多人連線",
+        "角色扮演"
+      ],
+      "pubilsher": "Com2uS",
+      "publishDate": "2022",
+      "deck": "不支援"
+    },
+    {
+      "game": "The Binding of Isaac: Rebirth",
+      "gamePrice": "NT$ 268.00",
+      "players": "15,258",
+      "peakplayers": "18,414",
+      "url": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Nicalis, Inc.",
+      "publishDate": "2014",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Deep Rock Galactic",
+      "gamePrice": "NT$ 438.00",
+      "players": "15,163",
+      "peakplayers": "19,157",
+      "url": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Coffee Stain Publishing",
+      "publishDate": "2020",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Black Desert",
+      "gamePrice": "NT$ 200.00",
+      "players": "14,651",
+      "peakplayers": "17,081",
+      "url": "https://store.steampowered.com/app/582660/Black_Desert?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "大型多人連線",
+        "角色扮演",
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Pearl Abyss",
+      "publishDate": "2021",
+      "deck": "不支援"
+    },
+    {
+      "game": "The Witcher® 3: Wild Hunt",
+      "gamePrice": "NT$ 868.00",
+      "players": "14,679",
+      "peakplayers": "17,188",
+      "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt?snr=1_7001_7005__7003",
+      "genre": [
+        "角色扮演"
+      ],
+      "pubilsher": "CD PROJEKT RED",
+      "publishDate": "2015",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Cyberpunk 2077",
+      "gamePrice": "NT$ 1,599.00",
+      "players": "14,492",
+      "peakplayers": "17,428",
+      "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077?snr=1_7001_7005__7003",
+      "genre": [
+        "角色扮演"
+      ],
+      "pubilsher": "CD PROJEKT RED",
+      "publishDate": "2020",
+      "deck": "已驗證"
+    },
+    {
+      "game": "PAYDAY 2",
+      "gamePrice": "NT$ 225.00",
+      "players": "14,664",
+      "peakplayers": "22,141",
+      "url": "https://store.steampowered.com/app/218620/PAYDAY_2?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "角色扮演"
+      ],
+      "pubilsher": "Starbreeze Publishing AB",
+      "publishDate": "2013",
+      "deck": "None"
+    },
+    {
+      "game": "Sid Meier's Civilization® V",
+      "gamePrice": "NT$ 895.00",
+      "players": "14,004",
+      "peakplayers": "18,829",
+      "url": "https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V?snr=1_7001_7005__7003",
+      "genre": [
+        "策略"
+      ],
+      "pubilsher": "2K",
+      "publishDate": "2010",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "New World",
+      "gamePrice": "NT$ 599.00",
+      "players": "13,901",
+      "peakplayers": "20,697",
+      "url": "https://store.steampowered.com/app/1063730/New_World?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "大型多人連線",
+        "角色扮演"
+      ],
+      "pubilsher": "Amazon Games",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Soundpad",
+      "gamePrice": "NT$ 102.00",
+      "players": "13,784",
+      "peakplayers": "18,521",
+      "url": "https://store.steampowered.com/app/629520/Soundpad?snr=1_7001_7005__7003",
+      "genre": [
+        "音訊製作",
+        "工具"
+      ],
+      "pubilsher": "Leppsoft",
+      "publishDate": "2016",
+      "deck": "不支援"
+    },
+    {
+      "game": "STAR WARS 絕地：倖存者™",
+      "gamePrice": "NT$ 1,999.00",
+      "players": "13,808",
+      "peakplayers": "28,220",
+      "url": "https://store.steampowered.com/app/1774580/STAR_WARS?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險"
+      ],
+      "pubilsher": "Electronic Arts",
+      "publishDate": "2023",
+      "deck": "None"
+    },
+    {
+      "game": "Crusader Kings III",
+      "gamePrice": "NT$ 898.00",
+      "players": "13,184",
+      "peakplayers": "17,011",
+      "url": "https://store.steampowered.com/app/1158310/Crusader_Kings_III?snr=1_7001_7005__7003",
+      "genre": [
+        "角色扮演",
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Paradox Interactive",
+      "publishDate": "2020",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "《戰地風雲 5》",
+      "gamePrice": "NT$ 1,399.00",
+      "players": "13,355",
+      "peakplayers": "14,041",
+      "url": "https://store.steampowered.com/app/1238810/_5?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Electronic Arts",
+      "publishDate": "2018",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "《戰車世界：閃擊戰》",
+      "gamePrice": "免費遊玩",
+      "players": "12,959",
+      "peakplayers": "16,396",
+      "url": "https://store.steampowered.com/app/444200/?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "免費遊玩",
+        "大型多人連線"
+      ],
+      "pubilsher": "Wargaming Group Limited",
+      "publishDate": "2016",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Sea of Thieves 2023 Edition",
+      "gamePrice": "NT$ 1,099.00",
+      "players": "13,097",
+      "peakplayers": "18,532",
+      "url": "https://store.steampowered.com/app/1172620/Sea_of_Thieves_2023_Edition?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險"
+      ],
+      "pubilsher": "Xbox Game Studios",
+      "publishDate": "2020",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Stellaris",
+      "gamePrice": "NT$ 738.00",
+      "players": "12,940",
+      "peakplayers": "16,308",
+      "url": "https://store.steampowered.com/app/281990/Stellaris?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Paradox Interactive",
+      "publishDate": "2016",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Squad",
+      "gamePrice": "NT$ 698.00",
+      "players": "12,696",
+      "peakplayers": "13,699",
+      "url": "https://store.steampowered.com/app/393380/Squad?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "獨立製作",
+        "大型多人連線",
+        "策略"
+      ],
+      "pubilsher": "Offworld Industries",
+      "publishDate": "2020",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "霍格華茲的傳承",
+      "gamePrice": "NT$ 1,490.00",
+      "players": "12,258",
+      "peakplayers": "20,570",
+      "url": "https://store.steampowered.com/app/990080/?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "角色扮演"
+      ],
+      "pubilsher": "Warner Bros. Games",
+      "publishDate": "2023",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Fallout 4",
+      "gamePrice": "NT$ 599.00",
+      "players": "12,170",
+      "peakplayers": "16,067",
+      "url": "https://store.steampowered.com/app/377160/Fallout_4?snr=1_7001_7005__7003",
+      "genre": [
+        "角色扮演"
+      ],
+      "pubilsher": "Bethesda Softworks",
+      "publishDate": "2015",
+      "deck": "None"
+    },
+    {
+      "game": "Resident Evil 4",
+      "gamePrice": "NT$ 1,680.00",
+      "players": "12,061",
+      "peakplayers": "13,927",
+      "url": "https://store.steampowered.com/app/2050650/Resident_Evil_4?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險"
+      ],
+      "pubilsher": "CAPCOM Co., Ltd.",
+      "publishDate": "2023",
+      "deck": "None"
+    },
+    {
+      "game": "Brotato",
+      "gamePrice": "NT$ 102.00",
+      "players": "11,951",
+      "peakplayers": "13,216",
+      "url": "https://store.steampowered.com/app/1942280/Brotato?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "休閒",
+        "獨立製作",
+        "角色扮演",
+        "搶先體驗"
+      ],
+      "pubilsher": "Blobfish",
+      "publishDate": "2022",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Wartales",
+      "gamePrice": "NT$ 739.00",
+      "players": "12,082",
+      "peakplayers": "15,960",
+      "url": "https://store.steampowered.com/app/1527950/Wartales?snr=1_7001_7005__7003",
+      "genre": [
+        "冒險",
+        "獨立製作",
+        "角色扮演",
+        "策略"
+      ],
+      "pubilsher": "Shiro Unlimited",
+      "publishDate": "2023",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Arma 3",
+      "gamePrice": "NT$ 698.00",
+      "players": "11,910",
+      "peakplayers": "17,400",
+      "url": "https://store.steampowered.com/app/107410/Arma_3?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Bohemia Interactive",
+      "publishDate": "2013",
+      "deck": "不支援"
+    },
+    {
+      "game": "Football Manager 2022",
+      "gamePrice": "None",
+      "players": "11,722",
+      "peakplayers": "14,147",
+      "url": "https://store.steampowered.com/app/1569040/Football_Manager_2022?snr=1_7001_7005__7003",
+      "genre": [
+        "模擬",
+        "運動"
+      ],
+      "pubilsher": "SEGA",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Forza Horizon 5",
+      "gamePrice": "NT$ 928.00",
+      "players": "11,404",
+      "peakplayers": "11,592",
+      "url": "https://store.steampowered.com/app/1551360/Forza_Horizon_5?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "競速",
+        "模擬",
+        "運動"
+      ],
+      "pubilsher": "Xbox Game Studios",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Russian Fishing 4",
+      "gamePrice": "免費遊玩",
+      "players": "11,241",
+      "peakplayers": "11,538",
+      "url": "https://store.steampowered.com/app/766570/Russian_Fishing_4?snr=1_7001_7005__7003",
+      "genre": [
+        "冒險",
+        "休閒",
+        "免費遊玩",
+        "大型多人連線",
+        "角色扮演",
+        "模擬",
+        "運動"
+      ],
+      "pubilsher": "FishSoft, LLC",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "SCUM",
+      "gamePrice": "NT$ 671.00",
+      "players": "11,189",
+      "peakplayers": "12,756",
+      "url": "https://store.steampowered.com/app/513710/SCUM?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "獨立製作",
+        "大型多人連線",
+        "搶先體驗"
+      ],
+      "pubilsher": "Jagex Ltd",
+      "publishDate": "2018",
+      "deck": "不支援"
+    },
+    {
+      "game": "Bloons TD 6",
+      "gamePrice": "NT$ 248.00",
+      "players": "11,042",
+      "peakplayers": "14,974",
+      "url": "https://store.steampowered.com/app/960090/Bloons_TD_6?snr=1_7001_7005__7003",
+      "genre": [
+        "策略"
+      ],
+      "pubilsher": "Ninja Kiwi",
+      "publishDate": "2018",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Factorio",
+      "gamePrice": "NT$ 600.00",
+      "players": "10,682",
+      "peakplayers": "14,497",
+      "url": "https://store.steampowered.com/app/427520/Factorio?snr=1_7001_7005__7003",
+      "genre": [
+        "休閒",
+        "獨立製作",
+        "模擬",
+        "策略"
+      ],
+      "pubilsher": "Wube Software LTD.",
+      "publishDate": "2020",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "FINAL FANTASY XIV Online",
+      "gamePrice": "None",
+      "players": "10,592",
+      "peakplayers": "25,021",
+      "url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online?snr=1_7001_7005__7003",
+      "genre": [
+        "大型多人連線",
+        "角色扮演"
+      ],
+      "pubilsher": "Square Enix",
+      "publishDate": "2013",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "World of Warships",
+      "gamePrice": "免費遊玩",
+      "players": "10,692",
+      "peakplayers": "11,259",
+      "url": "https://store.steampowered.com/app/552990/World_of_Warships?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "免費遊玩",
+        "大型多人連線",
+        "模擬"
+      ],
+      "pubilsher": "Wargaming Group Limited",
+      "publishDate": "2017",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Forza Horizon 4",
+      "gamePrice": "NT$ 858.00",
+      "players": "10,494",
+      "peakplayers": "12,297",
+      "url": "https://store.steampowered.com/app/1293830/Forza_Horizon_4?snr=1_7001_7005__7003",
+      "genre": [
+        "競速"
+      ],
+      "pubilsher": "Xbox Game Studios",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Slay the Spire",
+      "gamePrice": "NT$ 378.00",
+      "players": "10,423",
+      "peakplayers": "11,558",
+      "url": "https://store.steampowered.com/app/646570/Slay_the_Spire?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "策略"
+      ],
+      "pubilsher": "Mega Crit Games",
+      "publishDate": "2019",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Phasmophobia",
+      "gamePrice": "NT$ 248.00",
+      "players": "10,640",
+      "peakplayers": "18,310",
+      "url": "https://store.steampowered.com/app/739630/Phasmophobia?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "獨立製作",
+        "搶先體驗"
+      ],
+      "pubilsher": "Kinetic Games",
+      "publishDate": "2020",
+      "deck": "已驗證"
+    },
+    {
+      "game": "缺氧",
+      "gamePrice": "NT$ 378.00",
+      "players": "10,273",
+      "peakplayers": "11,273",
+      "url": "https://store.steampowered.com/app/457140/?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "模擬"
+      ],
+      "pubilsher": "Klei Entertainment",
+      "publishDate": "2019",
+      "deck": "已驗證"
+    },
+    {
+      "game": "Age of Empires IV: Anniversary Edition",
+      "gamePrice": "NT$ 1,088.00",
+      "players": "10,298",
+      "peakplayers": "12,511",
+      "url": "https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition?snr=1_7001_7005__7003",
+      "genre": [
+        "策略"
+      ],
+      "pubilsher": "Xbox Game Studios",
+      "publishDate": "2021",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Battlefield™ 1",
+      "gamePrice": "NT$ 1,099.00",
+      "players": "10,289",
+      "peakplayers": "11,045",
+      "url": "https://store.steampowered.com/app/1238840/Battlefield_1?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "大型多人連線"
+      ],
+      "pubilsher": "Electronic Arts",
+      "publishDate": "2016",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Counter-Strike",
+      "gamePrice": "NT$ 186.00",
+      "players": "9,679",
+      "peakplayers": "13,103",
+      "url": "https://store.steampowered.com/app/10/CounterStrike?snr=1_7001_7005__7003",
+      "genre": [
+        "動作"
+      ],
+      "pubilsher": "Valve",
+      "publishDate": "2000",
+      "deck": "可遊玩"
+    },
+    {
+      "game": "Conan Exiles",
+      "gamePrice": "NT$ 499.00",
+      "players": "9,664",
+      "peakplayers": "14,455",
+      "url": "https://store.steampowered.com/app/440900/Conan_Exiles?snr=1_7001_7005__7003",
+      "genre": [
+        "動作",
+        "冒險",
+        "角色扮演",
+        "大型多人連線",
+        "模擬",
+        "策略"
+            ],
+      "pubilsher": "Funcom",
+      "publishDate": "2018",
+      "deck": "不支援"
+    },
+    {
+      "game": "VTube Studio",
+      "gamePrice": "免費遊玩",
+      "players": "9,362",
+      "peakplayers": "9,362",
+      "url": "https://store.steampowered.com/app/1325860/VTube_Studio?snr=1_7001_7005__7003",
+      "genre": [
+        "獨立製作",
+        "動畫和建模",
+        "影片製作"
+      ],
+      "pubilsher": "DenchiSoft",
+      "publishDate": "2021",
+      "deck": "不支援"
+    }
+  ]

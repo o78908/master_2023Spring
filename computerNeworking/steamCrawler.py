@@ -35,11 +35,6 @@ search_input = WebDriverWait(chrome, 3).until(
 steamdatas = chrome.find_elements(By.CLASS_NAME,'weeklytopsellers_TableRow_2-RN6') 
 res = []
 a =0
-# select = Select(chrome.find_element(By.ID,"ageYear"))
-# select.select_by_value("1990")
-# button = chrome.find_element(By.CLASS_NAME,"view_product_page_btn")
-# button.click()
-
 
 for i in steamdatas:
     print(a)
