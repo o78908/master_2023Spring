@@ -6,7 +6,10 @@ import datetime
 import pandas as pd
 import numpy as np
 import json
-
+import os
+## You must add it in case file cannot be read by page.py!!!!
+os.chdir("C:/Users/Modern 14/Desktop/CNfinalproject-20230522T012228Z-001/CNfinalproject") ## 改成自己的路徑
+## You must add it in case file cannot be read by page.py!!!!
 app = Flask(__name__)
 @app.route('/')
 def index():
