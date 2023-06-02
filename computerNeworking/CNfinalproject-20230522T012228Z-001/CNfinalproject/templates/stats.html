@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Steam Data Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <canvas id="myChart"></canvas>
+    <script>
+    //長條圖分析開發商
+      var labels = {{ labels|tojson }};
+      var values = {{ values|tojson }};
+
+      
+      var options = {
+        scales: {
+          xAxis: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        }
+      };
+
+      // 繪製圖表
+      var ctx = document.getElementById("myChart")
+      var myChart = new Chart(ctx, {
+        type: "bar",
+        data: {
+          labels: labels,
+          datasets: [
+            {
+              label: "Publisber Counts",
+              data: values,
+              backgroundColor: [
+                '#FF6384',
+              ],
+            }
+          ]
+        },
+        options: options
+      });
+    </script>
+  </body>
+</html>
