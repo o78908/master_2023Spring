@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Page</title>
+    <style>
+    .chart-container {
+        position: relative;
+        margin: auto;
+        height: 80vh;
+        width: 70vw;
+      }
+    </style>
+</head>
+
+<!-- timeList=timeList,moistList=moistList,motorList=motorList,lightList=lightList -->
+
+<body>
+    <div class="chart-container" >
+        <canvas id="Chart1"></canvas>
+    </div>
+    <div class="chart-container" >
+      <canvas id="Chart2"></canvas>
+  </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('Chart1');
+      
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: {{timeList | tojson}},
+            datasets: [{
+              label: 'Soilmoisture',
+              data: {{moistList | tojson}}, //y軸humid的值
+              borderWidth: 1
+            }
+          ]
+          },
+            options: {
+                plugins: {
+                    title: {
+                        display: true,
+                        text: '土壤溼度變化圖',
+                    }
+                },
+                scales: {
+                    y: {
+                    beginAtZero: true
+                    }
+                }
+            }
+        });
+      </script>
+<!-- chart2 -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx2 = document.getElementById('Chart2');
+  
+    new Chart(ctx2, {
+      type: 'line',
+      data: {
+        labels: {{timeList | tojson}},
+        datasets: [{
+          label: 'motorStatus',
+          data: {{motorList | tojson}},//y軸temperature的值
+          borderWidth: 1
+        },{label: 'lightStatus',
+          data: {{lightList | tojson}},//y軸light的值
+          borderWidth: 1
+        }
+      ]
+      },
+        options: {
+            plugins: {
+                title: {
+                    display: true,
+                    text: '馬達 燈光變化圖',
+                }
+            },
+            scales: {
+                y: {
+                beginAtZero: true
+                }
+            }
+        }
+    });
+  </script>
+
+
+
+</body>
+
+</html>
+
+
+
+
